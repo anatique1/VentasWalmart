@@ -1,0 +1,13 @@
+Problema,Cantidad
+Filas duplicadas exactas,45
+Transaction_ID repetido,45
+Quantity <= 0,8
+Customer_Age fuera de 18-90,4
+Discount_Percentage > 100,1
+Profit != Sales - Cost,110
+Variantes de escritura en Customer_Gender,3
+Variantes de escritura en Order_Status,3
+Variantes de escritura en Product_Category,3
+Variantes de escritura en Payment_Method,4
+Variantes de escritura en City,3
+Variantes de escritura en Region,2

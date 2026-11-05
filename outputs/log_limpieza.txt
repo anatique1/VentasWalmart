@@ -1,0 +1,8 @@
+Duplicados exactos eliminados: 45
+Espacios al inicio/final eliminados en columnas de texto
+Categorías estandarizadas: pago, género, estado, categoría, ciudad y región
+Edades inválidas pasadas a nulo: 4; descuentos >100%: 1
+Filas con Quantity <= 0 eliminadas: 8
+Nulos tratados: recuperados por ID, mediana, etiqueta 'Unknown'/'No Promo'/'No Return'. Customer_Rating se deja sin imputar
+Profit recalculado como Sales - Cost (110 filas no coincidían)
+Filas: 18045 -> 17992
