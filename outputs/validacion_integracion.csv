@@ -1,0 +1,12 @@
+validacion,ok,detalle
+Transaction_ID único en ventas,True,0 duplicados
+Llave de festivos única,True,0 duplicados
+Cobertura de países,True,sin calendario: ninguno
+Cobertura de años,True,sin calendario: ninguno
+Conservación de filas,True,antes 17992 | después 17992
+Sin multiplicación de filas,True,0 transacciones repetidas
+Mismo conjunto de Transaction_ID,True,
+Totales conservados,True,"Sales 8,229,473.04 | Profit 1,643,056.73"
+Is_Holiday booleana y coherente,True,
+Verificación cruzada del flag,True,
+Columnas originales intactas,True,
